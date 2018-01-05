@@ -10,7 +10,10 @@ You can visit the live site on this link.
 `CREATE DATABASE user;`
 
 <b>Step 2:</b> Use following command to restore the `.sql` file to database:
+
+
 `mysql -u root -p user < /var/www/html/AdminPanel/database/userdata.sql `
+
 
 <b><u>Note: I have copied my website to /var/www/html/ and running on Apache</u></b>
 
