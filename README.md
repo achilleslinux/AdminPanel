@@ -24,4 +24,6 @@ Check my website on the below link.
 
 http://ec2-18-217-73-228.us-east-2.compute.amazonaws.com/AdminPanel/login.php
 
+The default password is `facebook`.
+
 Don't forget to fork or follow.
